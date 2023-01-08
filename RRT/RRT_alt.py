@@ -11,8 +11,6 @@
 #        click space during execution to print current number of nodes        #
 # --------------------------------------------------------------------------- #
 # ----------------------------------------------------------------------------------- #
-# check_edge = 0 --> SIMPLE RDT: new nodes are attached only to nodes, never to edges #
-# ----------------------------------------------------------------------------------- #
 # check_edge = 1 --> POOR PERFORMANCE: checks distance to every node and every edge   #
 # ----------------------------------------------------------------------------------- #
 
