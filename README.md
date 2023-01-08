@@ -1,7 +1,7 @@
 # RRT-PRM-algorithms
 2D routing and path planning RRT, PRM and PRM* algorithms  
 
-# RRT
+## RRT
 Rapidly-exploring Random Tree  
 
 Progressively cover the area in a net of nodes, but doesn't dinamically improve and rewire edges of the graph like RRT*  
@@ -11,7 +11,7 @@ The alternative version connects new nodes to edges, not just to other nodes
 ![alt text](https://github.com/ilariamarte/rrt-prm-algorithms/blob/main/RRT/images/rrt2.PNG)
 ![alt text](https://github.com/ilariamarte/rrt-prm-algorithms/blob/main/RRT/images/rrt3.PNG)
 
-# PRM & PRM*
+## PRM & PRM*
 Probabilistic RoadMap  
 
 A different approach than RDT (Rapidly-exploring Dense Trees, to which belong RRT/RRT*)  
