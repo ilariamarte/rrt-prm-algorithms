@@ -13,8 +13,6 @@
 # ----------------------------------------------------------------------------------- #
 # check_edge = 0 --> SIMPLE RDT: new nodes are attached only to nodes, never to edges #
 # ----------------------------------------------------------------------------------- #
-# check_edge = 1 --> POOR PERFORMANCE: checks distance to every node and every edge   #
-# ----------------------------------------------------------------------------------- #
 
 from support.imports_RRT import *
 check_edge = 0
