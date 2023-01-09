@@ -4,7 +4,7 @@
 ## RRT
 Rapidly-exploring Random Tree  
 
-Progressively cover the area in a net of nodes, but doesn't dinamically improve and rewire edges of the graph like RRT*  
+Progressively covers the area in a net of nodes, but doesn't dinamically improve and rewire edges of the graph like RRT*  
 The alternative version connects new nodes to edges, not just to other nodes  
 
 ![alt text](https://github.com/ilariamarte/rrt-prm-algorithms/blob/main/RRT/images/rrt1.PNG)
