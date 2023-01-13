@@ -1,7 +1,6 @@
 # RRT-PRM-algorithms
 2D routing and path planning RRT, PRM and PRM* algorithms  
-
-Incremental sampling & searching algorithm series  
+-- Incremental sampling & searching algorithm series --  
 
 ## RRT
 Rapidly-exploring Random Tree  
